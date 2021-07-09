@@ -44,5 +44,4 @@ This project utilized the EDA from this Exploratory Data Analysis and Hypothesis
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-![PCA](/images/PCA.PNG)
 
