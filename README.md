@@ -1,5 +1,5 @@
 # Insurance-Fraud-in-Python
-## EDA and Classification Prediction
+## EDA and Classification
 
 ### Summary
 
