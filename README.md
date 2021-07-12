@@ -3,7 +3,7 @@
 
 ### Summary
 
-The goal of this project was to use Python to identify significant features in fraudulent insurance claim transactions and to design predictive classification models to predict whether fraud was reported on the insurance claim transaction. The project compared results from the imbalanced dataset with results of an oversampled target variable. Logistic Regression, Support Vector Machine Classification, and Random Forest models were tested. The paper and presentation walk through the data understanding and preparation, different models tested, methodology, and evaluation of the project.
+The goal of this project was to use Python to identify significant features in fraudulent insurance claim transactions and to design predictive classification models to predict whether fraud was reported on the insurance claim transaction. The project addressed the imbalanced target variable by weighting the classes. Logistic Regression, Support Vector Machine Classification, and Random Forest models were tested. The paper walks through the data understanding and preparation, different models tested, methodology, and evaluation of the project.
 
 ### Tools
 
