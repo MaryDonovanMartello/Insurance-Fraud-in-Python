@@ -47,3 +47,32 @@ PCA was implemented because of multicollinearity between groups of input variabl
 ### Evaluation
 
 ![RESULTS1](/images/Results.PNG)
+
+**Notebooks**
+
+1_EDA_Prep
+This notebook includes the EDA, data preparation and PCA.
+
+2_R_Visuals
+This file includes EDA visuals and the R code that produced them.
+
+3_Feature_Selection
+This notebook includes feature selection models.
+
+4_Baseline_Model
+This notebook includes a baseline logistic regression model for comparison to more complex models.
+
+5_Test_Subsets_of_Features
+This notebook tests for best subsets of features with a logistic regression model.
+
+6_Logistic_Regression
+This notebook includes the Logistic Regression Model’s model evaluation and selection and metric evaluation.
+
+7_LASSO_Regression_Model
+This notebook includes the LASSO Logistic Regression Model’s model evaluation and selection and metric evaluation.
+
+8_Support_Vector_Machine
+This notebook includes the Support Vector Machine Model’s model evaluation and selection and metric evaluation.
+
+9_Random_Forest_Model
+This notebook includes the Random Forest Model’s model evaluation and selection and metric evaluation.
